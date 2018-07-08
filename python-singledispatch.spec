@@ -78,6 +78,7 @@ popd
 %{python3_sitelib}/%{module}.py*
 %{python3_sitelib}/%{module}_helpers.py*
 %{python3_sitelib}/%{module}-%{version}-py%{python3_version}.egg-info
+%{python3_sitelib}/__pycache__/
 
 %files -n python2-%{module}
 %doc README.rst
