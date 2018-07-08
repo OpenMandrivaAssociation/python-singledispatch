@@ -2,7 +2,7 @@
 
 Name:		python-%{module}
 Version:	3.4.0.3
-Release:	1
+Release:	2
 Summary:	This library brings functools.singledispatch from Python 3.4 to Python 2.6-3.3
 Group:		Development/Python
 License:	MIT
