@@ -13,8 +13,7 @@ BuildRequires:	pkgconfig(python2)
 BuildRequires:	python2-setuptools
 BuildRequires:  pkgconfig(python3)
 BuildRequires:  python-setuptools
-#BuildRequires:  python2-pkg-resources
-BuildRequires:  python3egg(six)
+BuildRequires:  python2-pkg-resources
 
 
 %description
