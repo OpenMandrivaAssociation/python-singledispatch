@@ -6,7 +6,7 @@ Release:	2
 Summary:	This library brings functools.singledispatch from Python 3.4 to Python 2.6-3.3
 Group:		Development/Python
 License:	MIT
-URL:		http://docs.python.org/3/library/functools.html#functools.singledispatch
+URL:		https://docs.python.org/3/library/functools.html#functools.singledispatch
 Source0:	https://pypi.python.org/packages/source/s/%{module}/%{module}-%{version}.tar.gz
 BuildArch:	noarch
 BuildRequires:	pkgconfig(python2)
